@@ -1,6 +1,7 @@
-#turtle.face
+#turtle.face.py
 #by: oliver hamburger
-
+#last modified september 7th 2016
+#
 #this program uses turtle to draw a smiley face
 
 import turtle
@@ -54,5 +55,5 @@ for x in range(9):
 
 turtle.end_fill()
 
-#needed so python will not crash 
+#needed so python will not crash
 turtle.exitonclick()
